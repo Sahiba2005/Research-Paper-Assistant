@@ -1,0 +1,42 @@
+{
+ "questions": [
+  "What problem does this paper try to solve?",
+  "What is the main contribution of the paper?",
+  "What method or approach do the authors propose?",
+  "What dataset or data was used?",
+  "How was the proposed method evaluated?",
+  "What were the main results?",
+  "What baselines or prior methods were compared against?",
+  "What limitations do the authors mention?",
+  "What future work do the authors suggest?",
+  "What metrics were used to measure performance?",
+  "How does this work differ from previous research?",
+  "What assumptions does the method make?",
+  "What is the paper's conclusion?",
+  "Why is this problem important?",
+  "What tools, models or technologies were used in the implementation?"
+ ],
+ "paraphrases": [
+  "Which problem is this paper addressing?",
+  "What does this paper contribute?",
+  "Which approach do the authors propose?",
+  "Which data did they use?",
+  "How did they evaluate the method?",
+  "What did the experiments find overall?",
+  "Which earlier methods did they compare with?",
+  "What weaknesses do the authors admit to?",
+  "What do the authors plan to do next?",
+  "Which measures were used to judge performance?",
+  "How is this different from earlier work?",
+  "What does the method assume?",
+  "How does the paper conclude?",
+  "Why does this problem matter?",
+  "Which models or technologies did they implement it with?"
+ ],
+ "off_topic": [
+  "What is the capital of France?",
+  "How do I cook pasta?",
+  "Who won the last cricket world cup?",
+  "What is the price of Bitcoin today?"
+ ]
+}
